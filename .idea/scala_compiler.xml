@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="taolijin2hdfs,userbaseinfocollect,kafka-common,AdClickApp,redis2hdfs,STID2Hbase,kafka-consumers,applog2hbase" />
+  </component>
+</project>
